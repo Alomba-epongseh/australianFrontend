@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none">
+    <g clip-path="url(#net-suite_svg__a)">
+        <path fill="#BACCDB" d="M4.313 10.133h5.05v12.01h2.514v4.694H4.312V10.133Zm23.374 11.05h-5.05V9.173h-2.514V4.479h7.564v16.704Z"></path>
+        <path fill="#125580" d="M3.129 3.329h15.96v13.717L12.951 9.13H3.128V3.33ZM28.826 28.01h-15.96V14.294l6.137 7.915h9.823"></path>
+    </g>
+    <defs>
+        <clipPath id="net-suite_svg__a">
+            <path fill="#fff" d="M0 0h32v32H0z"></path>
+        </clipPath>
+    </defs>
+</svg>

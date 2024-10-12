@@ -1,0 +1,23 @@
+@import "palette";
+.primary {
+  background: $primary-gradient;
+}
+main {
+  background: #f7fafc;
+}
+.shape {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+.bg-teal {
+  background: $teal;
+}
+.bg-orange {
+  background: $orange;
+}
+.bg-darkGray {
+  background: $darkGray;
+}
+.border {
+  border-color: $border !important;
+}
